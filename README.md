@@ -1,5 +1,5 @@
 # ModelViewer-Test
-Test to display a free 3D model from free3d.com on the web (VSC, Live Server Expansion.)
+Test to display a free 3D model from Sketchfab on the web (VSC, Live Server Expansion.)
 
 You only need an HTML-code and a few assets for this code to work on the web.
 (model-viewer is supported on the last two major versions of all evergreen desktop and mobile browsers, plus the last two versions of Safari (on MacOS and iOS).)
