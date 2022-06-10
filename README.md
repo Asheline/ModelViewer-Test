@@ -27,3 +27,5 @@ You only need an HTML-code and a few assets for this code to work on the web.
     <model-viewer src="assets/scene.gltf" camera-controls auto-rotate ar ios-src="assets/Low_Poly_Lake_Scene.usdz"></model-viewer>
 </body>
 </html>
+
+This work is based on "Low Poly Lake Scene" (https://sketchfab.com/3d-models/low-poly-lake-scene-5fa5d2f996ef472fa41baafe79f64ec2) by EdwinRC (https://sketchfab.com/Edwin3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
