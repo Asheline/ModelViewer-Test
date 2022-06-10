@@ -26,4 +26,4 @@ You only need an HTML-code and a few assets for this code to work on the web.
 <body>
     <model-viewer src="assets/scene.gltf" camera-controls auto-rotate ar ios-src="assets/Low_Poly_Lake_Scene.usdz"></model-viewer>
 </body>
-</html>```
+</html>
